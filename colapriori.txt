@@ -1,0 +1,58 @@
+programacion segura
+---------------------------------------------------------------------------------
+
+->try : 	|    problemas    |
+
+->catch :	|eventos de error |
+
+
+excepcion: evento en t ejecucion q interrumpe flujo,
+	   se modelan como objetos y se fundamentan en 3 sentencias de control
+	   de flujo:
+	 
+	-try
+	-catch
+	-throw: 
+
+op
+
+
+heileman gregory l estructuras de datos algoritmos y programación orientada a objetos pdf
+
+crear sacar
+adicionar
+determinar estado
+si finalizado
+adicionar cola
+
+mientras cola no vacia ejecutar
+
+
+
+boool colapriori::estavacia(){
+	bool b = buffer.empty();
+	return b;
+}
+
+
+list<proceso> tmp(buffer);
+void colapriori::dibujarse(){
+	while(tmp.size() != 0){
+}
+
+______________________________________
+-como adicionar a colapriori()
+-------------------------------------------
+
+	°trivial(no tiene en cuenta prioridad) push_back();
+
+	° basico:
+		si es menor que l[0] push_front
+		sino push_front
+
+	°cualquier parte
+	
+
+	
+	
+	
